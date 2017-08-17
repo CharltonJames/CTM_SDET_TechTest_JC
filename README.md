@@ -1,6 +1,6 @@
 # INTRODUCTION:
 
-This Visual studio S2017 Solution contains two projects:
+This Visual Studio 2017 Solution contains two projects:
 	SF_PAGES
 		This project contains framework related code, default values and configuration data
 	SF_TESTS
